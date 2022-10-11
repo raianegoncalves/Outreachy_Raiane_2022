@@ -113,4 +113,4 @@ We can contribute in different ways, such as:
 ![12233034_943758819028895_1015830412_n](https://user-images.githubusercontent.com/86757942/195217057-17768d61-2924-498d-b33a-63c5dd9e6ef4.jpg)
 
 ---
-⌨️ com ❤️ por [Raiane Gonçalves](https://www.linkedin.com/in/raianecgoncalves/)
+⌨️ with ❤️ by [Raiane Gonçalves](https://www.linkedin.com/in/raianecgoncalves/)
