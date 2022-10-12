@@ -78,7 +78,7 @@ We can contribute in different ways, such as:
  
  ## Caatinga
     
-   The Caatinga Biome occupies an area of approximately 10% of the National Territory.:
+    The Caatinga Biome occupies an area of approximately 10% of the National Territory:
      * 36% was occupied by man;
 ![caatinga-daniel-de-granville-serra-capivara-pi-vista-lajeado-jurubeba](https://user-images.githubusercontent.com/86757942/195216942-adc0fbd6-d018-4cac-a32f-06c118c3cb80.jpg)
  
